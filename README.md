@@ -5,6 +5,13 @@ A facial recognition system is a technology capable of matching a human face fro
 :: <strong>PyCharm</strong></br>
 :: <strong>DB Browser SQLite</strong></br>
 
+# Links to Download 
+:: <strong>Python 3.8.8 Windows (32-bit)</strong> - <a href="https://www.python.org/ftp/python/3.8.8/python-3.8.8.exe" target="_blank">Download Link</a></br>
+:: <strong>Python 3.8.8 Windows (64-bit)</strong> - <a href="https://www.python.org/ftp/python/3.8.8/python-3.8.8-amd64.exe" target="_blank">Download Link</a></br>
+:: <strong>PyCharm Community</strong> - <a href="https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC" target="_blank">Download Link</a></br>
+:: <strong>DB Browser SQLite (32-bit)</strong> - <a href="https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.1/DB.Browser.for.SQLite-3.12.1-win32-v2.msi" target="_blank">Download Link</a></br>
+:: <strong>DB Browser SQLite (64-bit)</strong> - <a href="https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.1/DB.Browser.for.SQLite-3.12.1-win64-v2.msi" target="_blank">Download Link</a>
+
 # Packages used
 <strong>pip install face-recognition</strong></br>
 <strong>pip install Flask</strong></br>
