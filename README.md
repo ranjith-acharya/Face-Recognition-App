@@ -7,4 +7,4 @@ A facial recognition system is a technology capable of matching a human face fro
 <strong>pip install db-sqlite3</strong> OR <strong>pip install pysqlite3</strong></br></br>
 
 # Output
-![](output/Forensic_Facial_Sketch_Recognition.mp4)
+<video width="320" height="240" controls><source src="output/Forensic_Facial_Sketch_Recognition.mp4" type="video/mp4"></video>
